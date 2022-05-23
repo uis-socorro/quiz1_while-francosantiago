@@ -13,7 +13,7 @@
                 <mxCell id="6" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="3" target="5">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="3" value="C1 = 100000&lt;br&gt;C2 = 150000&lt;br&gt;C3 = 35000000&lt;br&gt;n = 0" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+                <mxCell id="3" value="C1&amp;nbsp;&lt;br&gt;C2&lt;br&gt;C3&amp;nbsp;&lt;br&gt;n = 0" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
                     <mxGeometry x="354" y="170" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="8" value="" style="edgeStyle=none;html=1;startArrow=none;" edge="1" parent="1" source="9" target="7">
